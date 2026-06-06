@@ -1,0 +1,36 @@
+{
+  "name": "ecc-wrap",
+  "version": "1.0.0",
+  "description": "JavaScript wrapper for ECC - Agent harness performance optimization system for Claude Code, Codex, Cursor",
+  "main": "src/index.js",
+  "scripts": {
+    "demo": "node demo.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "agent",
+    "harness",
+    "optimization",
+    "ai",
+    "performance",
+    "ecc"
+  ],
+  "author": "q15004040209-creator",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/q15004040209-creator/ecc-wrap"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "peerDependencies": {
+    "ecc": ">=2.0.0-rc.1"
+  },
+  "optionalDependencies": {
+    "ecc": ">=2.0.0-rc.1"
+  }
+}
